@@ -13,7 +13,7 @@ SECRET_KEY = 'django-insecure-p*tpfg=y0%(*)_!i=3kc87m86(1u!ok_vt8c7izl4rj=4kv-2#
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['codemy-resume-production.up.railway.app']
 
 
 # Application definition
